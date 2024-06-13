@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">LoginWithAnimation</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Mau belajar Android, iOS, Machine Learning, Cloud, Front-End, Back-End, dan bidang IT lainnya? Di Dicoding aja!</string>
+    <string name="title_welcome_page">Selamat datang di App Story!</string>
+    <string name="title_signup_page">Silahkan lengkapi data diri kamu.</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Silahkan masukkan data kamu</string>
+    <string name="title_login_page">Apakah kamu sudah siap?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Have a nice day.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="error_password_too_short">Password tidak boleh kurang dari 8 karakter</string>
+    <string name="image_desc">deskripsi gambar</string>
+    <string name="empty_image_warning">Image cannot be empty</string>
+    <string name="image_compression_failed">Image compression failed</string>
+    <string name="email_empty_error">Email cannot be empty</string>
+    <string name="password_empty_error">Password cannot be empty</string>
+    <string name="welcome">Welcome</string>
+
+</resources>
